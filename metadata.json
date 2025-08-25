@@ -1,0 +1,5 @@
+{
+  "name": "Sales Data Dashboard",
+  "description": "An interactive dashboard to analyze sales trends and patterns using mock data, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
